@@ -7,6 +7,15 @@ A modern mixer for the Linux sound system ALSA, written in Rust with
 [QasTools](https://gitlab.com/sebholt/qastools) by Sebastian Holtermann. mixa
 merges QasTools' three apps into one window with a new visual design.
 
+![mixa mixer page](docs/screenshot-mixer.png)
+
+<details>
+<summary>Controls page</summary>
+
+![mixa controls page](docs/screenshot-controls.png)
+
+</details>
+
 | QasTools  | mixa page         | What it does                                                    |
 |-----------|-------------------|-----------------------------------------------------------------|
 | QasMixer  | **Mixer**         | Playback/capture faders, mute & capture switches, source selectors |
