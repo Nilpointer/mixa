@@ -1,5 +1,7 @@
 # mixa
 
+> **Pure AI rewrite of [QasTools](https://gitlab.com/sebholt/qastools)! No warranty if using this software!**
+
 A modern mixer for the Linux sound system ALSA, written in Rust with
 [egui](https://github.com/emilk/egui). It is a reimagining of
 [QasTools](https://gitlab.com/sebholt/qastools) by Sebastian Holtermann. mixa
