@@ -64,5 +64,5 @@ frame, saves it as a PNG and exits.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). mixa is inspired by QasTools, which is also
+MIT — see [LICENSE](https://github.com/Nilpointer/mixa/blob/main/LICENSE). mixa is inspired by QasTools, which is also
 MIT-licensed (© QasTools contributors).
