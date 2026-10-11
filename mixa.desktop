@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=mixa
+GenericName=Audio Mixer
+Comment=Modern mixer for the Linux sound system ALSA
+Exec=mixa
+Icon=multimedia-volume-control
+Terminal=false
+Categories=AudioVideo;Audio;Mixer;
+Keywords=alsa;mixer;volume;sound;
